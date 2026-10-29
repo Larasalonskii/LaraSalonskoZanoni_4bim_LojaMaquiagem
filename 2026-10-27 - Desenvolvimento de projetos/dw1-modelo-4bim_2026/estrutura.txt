@@ -1,0 +1,128 @@
+.
+├── backend
+│   ├── controllers
+│   │   ├── cargoController.js
+│   │   ├── clienteController.js
+│   │   ├── forma_pagamentoController.js
+│   │   ├── funcionarioController.js
+│   │   ├── imageController.js
+│   │   ├── loginController.js
+│   │   ├── menuController.js
+│   │   ├── pagamentoController.js
+│   │   ├── pedidoController.js
+│   │   ├── pedido_has_produtoController.js
+│   │   ├── pessoaController.js
+│   │   └── produtoController.js
+│   ├── database.js
+│   ├── routes
+│   │   ├── cargoRoutes.js
+│   │   ├── clienteRoutes.js
+│   │   ├── forma_pagamentoRoutes.js
+│   │   ├── funcionarioRoutes.js
+│   │   ├── imageRoutes.js
+│   │   ├── loginRoutes.js
+│   │   ├── menuRoutes.js
+│   │   ├── pagamentoRoutes.js
+│   │   ├── pedido_has_produtoRoutes.js
+│   │   ├── pedidoRoutes.js
+│   │   ├── pessoaRoutes.js
+│   │   └── produtoRoutes.js
+│   └── server.js
+├── documentacao
+│   ├── 4º bimestre - avaliação - dw1.md
+│   ├── CandyShopDER.png
+│   ├── dumpDBeaver-candyshop-202511180647.sql
+│   ├── estrutura.txt
+│   ├── scriptCandyShop.sql
+│   └── tutorial.md
+├── estrutura.txt
+├── frontend
+│   ├── cargo
+│   │   ├── cargo.css
+│   │   ├── cargo.html
+│   │   └── cargo.js
+│   ├── forma_pagamento
+│   │   ├── forma_pagamento.css
+│   │   ├── forma_pagamento.html
+│   │   └── forma_pagamento.js
+│   ├── login
+│   │   ├── login.css
+│   │   ├── login.html
+│   │   └── login.js
+│   ├── menu.css
+│   ├── menu.html
+│   ├── menu.js
+│   ├── pedido
+│   │   ├── pedido.css
+│   │   ├── pedido.html
+│   │   ├── pedido.js
+│   │   ├── pesquisaDinamicaCliente.js
+│   │   └── pesquisaDinamicaStyle.css
+│   ├── pessoa
+│   │   ├── pessoa.css
+│   │   ├── pessoa.html
+│   │   └── pessoa.js
+│   ├── produto
+│   │   ├── produto.css
+│   │   ├── produto.html
+│   │   └── produto.js
+│   ├── testes
+│   │   ├── dragavel
+│   │   │   ├── index.html
+│   │   │   └── style.css
+│   │   ├── EmOrdem.html
+│   │   ├── pedidoItens
+│   │   │   ├── pedido.css
+│   │   │   ├── pedido.html
+│   │   │   └── pedido.js
+│   │   ├── problemaCors.html
+│   │   ├── renderizar.html
+│   │   ├── renderizarProdutoComImagem.html
+│   │   ├── renderizerCarrossel.html
+│   │   ├── rotaMenu.html
+│   │   ├── rotaUsuarioLogado.html
+│   │   ├── testeRotaPessoa.css
+│   │   ├── testeRotaPessoa.html
+│   │   ├── verificaCookie.html
+│   │   └── WireframePedidoItensPedido.html
+│   └── visaoCliente
+│       ├── carrinho
+│       │   ├── carrinho.css
+│       │   ├── carrinho.html
+│       │   └── carrinho.js
+│       ├── finalizar
+│       │   ├── finalizar.css
+│       │   ├── finalizar.html
+│       │   └── finalizar.js
+│       └── pagamento
+│           ├── pagamento.css
+│           ├── pagamento.html
+│           └── pagamento.js
+├── imagens
+│   └── produto
+│       ├── 000.png
+│       ├── 10.png
+│       ├── 11.png
+│       ├── 1.png
+│       ├── 22.png
+│       ├── 2.png
+│       ├── 3.png
+│       ├── 4.png
+│       ├── 50.png
+│       ├── 5.png
+│       ├── 63.png
+│       ├── 6.png
+│       ├── 77.png
+│       ├── 7.png
+│       ├── 8.png
+│       └── 9.png
+├── index.html
+├── package.json
+├── package-lock.json
+├── p.sh
+├── push.sh
+├── pushTo.sh
+├── README.md
+└── ss
+
+21 directories, 105 files
